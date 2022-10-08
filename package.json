@@ -1,0 +1,26 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphasr/todolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphasr/todolist/issues"
+  },
+  "homepage": "https://github.com/alphasr/todolist#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.17",
+    "fs": "^0.0.1-security"
+  }
+}
